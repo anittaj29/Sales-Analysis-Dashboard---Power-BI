@@ -1,42 +1,44 @@
-📊 Sales Performance Dashboard – Dry Fruits Company (Middle East)
-An interactive Power BI dashboard project built to help a dry fruits company operating in the Middle East gain actionable insights into sales performance, team contributions, and regional trends.
+# 📊 Sales Performance Dashboard – Dry Fruits Company (Middle East)
 
-🔍 Project Objective
-To analyze over 3,000 sales records and provide business stakeholders with a dynamic, easy-to-navigate dashboard that supports data-driven decision-making.
+An interactive Power BI dashboard designed to provide business stakeholders with actionable insights into sales performance, regional trends, and team contributions.
 
-🛠 Tools & Technologies
-Power BI – Dashboard development and visualizations
+---
 
-Excel – Source data
+## 🔍 Project Objective
+To analyze and visualize sales data (3,000+ records) to support data-driven decision-making through dynamic and user-friendly dashboards.
 
-DAX – Custom metric creation
+---
 
-Data Modeling – Relational joins and schema design
+## 🛠 Tools & Technologies
+- **Power BI** – for dashboard creation and interactive visualizations  
+- **Excel** – used as the data source  
+- **DAX** – for custom calculations (Net Profit, Revenue, etc.)  
+- **Data Modeling** – to establish relationships among tables  
 
-📌 Key Features
-Clean and professional dashboard design for business use
+---
 
-Dynamic filters to drill down by region, team, and individual performance
+## 📌 Key Features
+- Clean, professional design optimized for business users  
+- Interactive filters (region, team, and time) for custom insights  
+- Custom KPI metrics: Revenue, Cost, Net Profit  
+- Regional and individual-level performance tracking  
+- Time-based analysis of sales and profitability  
+- Contextual visuals embedded in tables for better understanding  
 
-Calculated metrics for Revenue, Cost, and Net Profit
+---
 
-Time-series visualizations of evolving sales trends
+## 🧩 Data Engineering & Preparation
+- Cleaned and standardized fields (e.g., removed trailing spaces)  
+- Handled missing values with appropriate defaults  
+- Merged region mapping data using relational joins  
+- Structured data model for efficient querying  
 
-Contextual visuals to enhance interpretation of data tables
+---
 
-🧩 Data Engineering
-Removed inconsistencies and null values
+## 📈 Outcomes & Business Impact
+- Delivered a high-quality, dynamic dashboard  
+- Enhanced visibility into top-selling products and regions  
+- Empowered teams to monitor and compare performance  
+- Enabled quick access to core metrics for leadership  
 
-Trimmed and standardized geographic fields
-
-Integrated reference mapping for regional insights
-
-Built logical relationships across datasets for unified analysis
-
-🚀 Outcomes
-Enabled real-time data filtering and performance tracking
-
-Improved visibility of top-performing products and regions
-
-Assisted leadership in monitoring sales trends and setting strategies
-
+---
